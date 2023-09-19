@@ -1,0 +1,1 @@
+export { default } from "D:\\WebFontEnd\\Projects\\vuepress2-MyBlog-GitHub\\node_modules\\vuepress-plugin-helper-live2d\\lib\\enhanceAppFile.js"
