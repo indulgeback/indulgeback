@@ -3,23 +3,41 @@
  */
 export default {
   "tags": {
+    "Java": {
+      "key": "Java",
+      "scope": "tags",
+      "path": "/tag/Java/",
+      "pageKeys": [
+        "v-3e68fda2",
+        "v-1de00e7b",
+        "v-a2730a74"
+      ]
+    },
+    "Arrays": {
+      "key": "Arrays",
+      "scope": "tags",
+      "path": "/tag/Arrays/",
+      "pageKeys": [
+        "v-3e68fda2"
+      ]
+    },
     "Javascript": {
       "key": "Javascript",
       "scope": "tags",
       "path": "/tag/Javascript/",
       "pageKeys": [
-        "v-b989fc08",
-        "v-bf439cc8",
-        "v-5feb51db",
-        "v-59022ba9",
-        "v-3d71b92c",
-        "v-4f4a33ac",
-        "v-0042273c",
-        "v-69a93fb5",
-        "v-11b766e2",
-        "v-a0ae85ba",
-        "v-0907000a",
-        "v-16c2594c"
+        "v-03ea0756",
+        "v-28acc7f4",
+        "v-1c946e75",
+        "v-c07dbf08",
+        "v-a6a3607c",
+        "v-b9fb28f6",
+        "v-964a33f6",
+        "v-656f9ebb",
+        "v-7748193b",
+        "v-9d78ab64",
+        "v-4f28a414",
+        "v-cc371236"
       ]
     },
     "git": {
@@ -27,7 +45,15 @@ export default {
       "scope": "tags",
       "path": "/tag/git/",
       "pageKeys": [
-        "v-2c6800dc"
+        "v-af2edb96"
+      ]
+    },
+    "Lambda": {
+      "key": "Lambda",
+      "scope": "tags",
+      "path": "/tag/Lambda/",
+      "pageKeys": [
+        "v-1de00e7b"
       ]
     },
     "Pinia": {
@@ -35,41 +61,7 @@ export default {
       "scope": "tags",
       "path": "/tag/Pinia/",
       "pageKeys": [
-        "v-569e6d68"
-      ]
-    },
-    "TypeScript": {
-      "key": "TypeScript",
-      "scope": "tags",
-      "path": "/tag/TypeScript/",
-      "pageKeys": [
-        "v-4bb02f54",
-        "v-23bace5a"
-      ]
-    },
-    "Vue": {
-      "key": "Vue",
-      "scope": "tags",
-      "path": "/tag/Vue/",
-      "pageKeys": [
-        "v-59022ba9",
-        "v-3d71b92c",
-        "v-4f4a33ac",
-        "v-0042273c",
-        "v-69a93fb5",
-        "v-11b766e2",
-        "v-0907000a",
-        "v-16c2594c",
-        "v-713197fe",
-        "v-7ee369b8"
-      ]
-    },
-    "Java": {
-      "key": "Java",
-      "scope": "tags",
-      "path": "/tag/Java/",
-      "pageKeys": [
-        "v-53f6806d"
+        "v-76aa7db6"
       ]
     },
     "SpringBoot": {
@@ -77,7 +69,7 @@ export default {
       "scope": "tags",
       "path": "/tag/SpringBoot/",
       "pageKeys": [
-        "v-53f6806d"
+        "v-a2730a74"
       ]
     },
     "AOP": {
@@ -85,7 +77,33 @@ export default {
       "scope": "tags",
       "path": "/tag/AOP/",
       "pageKeys": [
-        "v-53f6806d"
+        "v-a2730a74"
+      ]
+    },
+    "TypeScript": {
+      "key": "TypeScript",
+      "scope": "tags",
+      "path": "/tag/TypeScript/",
+      "pageKeys": [
+        "v-ba2d4322",
+        "v-2707771a"
+      ]
+    },
+    "Vue": {
+      "key": "Vue",
+      "scope": "tags",
+      "path": "/tag/Vue/",
+      "pageKeys": [
+        "v-a6a3607c",
+        "v-b9fb28f6",
+        "v-964a33f6",
+        "v-656f9ebb",
+        "v-7748193b",
+        "v-9d78ab64",
+        "v-4f28a414",
+        "v-cc371236",
+        "v-25305652",
+        "v-7c16f5de"
       ]
     },
     "payment": {
@@ -93,7 +111,7 @@ export default {
       "scope": "tags",
       "path": "/tag/payment/",
       "pageKeys": [
-        "v-0074a62e"
+        "v-28fd3a72"
       ]
     },
     "一切都刚刚好": {
@@ -101,7 +119,7 @@ export default {
       "scope": "tags",
       "path": "/tag/一切都刚刚好/",
       "pageKeys": [
-        "v-1e26d155"
+        "v-cbb13aa4"
       ]
     }
   },
@@ -111,24 +129,25 @@ export default {
       "scope": "categories",
       "path": "/categories/技术/",
       "pageKeys": [
-        "v-b989fc08",
-        "v-2c6800dc",
-        "v-5feb51db",
-        "v-569e6d68",
-        "v-4bb02f54",
-        "v-23bace5a",
-        "v-59022ba9",
-        "v-3d71b92c",
-        "v-4f4a33ac",
-        "v-0042273c",
-        "v-69a93fb5",
-        "v-11b766e2",
-        "v-a0ae85ba",
-        "v-53f6806d",
-        "v-0907000a",
-        "v-16c2594c",
-        "v-713197fe",
-        "v-7ee369b8"
+        "v-3e68fda2",
+        "v-03ea0756",
+        "v-af2edb96",
+        "v-28acc7f4",
+        "v-76aa7db6",
+        "v-c07dbf08",
+        "v-a2730a74",
+        "v-ba2d4322",
+        "v-2707771a",
+        "v-a6a3607c",
+        "v-b9fb28f6",
+        "v-964a33f6",
+        "v-656f9ebb",
+        "v-7748193b",
+        "v-9d78ab64",
+        "v-4f28a414",
+        "v-cc371236",
+        "v-25305652",
+        "v-7c16f5de"
       ]
     },
     "专题": {
@@ -136,8 +155,9 @@ export default {
       "scope": "categories",
       "path": "/categories/专题/",
       "pageKeys": [
-        "v-bf439cc8",
-        "v-0074a62e"
+        "v-1de00e7b",
+        "v-1c946e75",
+        "v-28fd3a72"
       ]
     },
     "情感": {
@@ -145,7 +165,7 @@ export default {
       "scope": "categories",
       "path": "/categories/情感/",
       "pageKeys": [
-        "v-1e26d155"
+        "v-cbb13aa4"
       ]
     }
   },
