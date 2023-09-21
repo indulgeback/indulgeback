@@ -178,10 +178,10 @@ module.exports = {
 						cover: '/bgm/lemon.png'
 					},
 					{
-						name: 'Love Yourself',
-						artist: 'Justin Bieber',
-						url: '/bgm/Love Yourself - Justin Bieber.mp3',
-						cover: '/bgm/Love Yourself.png'
+						name: 'LoveYourself',
+						artist: 'JustinBieber',
+						url: '/bgm/LoveYourself - JustinBieber.mp3',
+						cover: '/bgm/LoveYourself.png'
 					},
 					{
 						name: '半岛铁盒',

@@ -3,25 +3,6 @@
  */
 export default {
   "tags": {
-    "Javascript": {
-      "key": "Javascript",
-      "scope": "tags",
-      "path": "/tag/Javascript/",
-      "pageKeys": [
-        "v-03ea0756",
-        "v-1c946e75",
-        "v-28acc7f4",
-        "v-b9fb28f6",
-        "v-c07dbf08",
-        "v-a6a3607c",
-        "v-964a33f6",
-        "v-7748193b",
-        "v-656f9ebb",
-        "v-9d78ab64",
-        "v-cc371236",
-        "v-4f28a414"
-      ]
-    },
     "Java": {
       "key": "Java",
       "scope": "tags",
@@ -40,14 +21,6 @@ export default {
         "v-3e68fda2"
       ]
     },
-    "Lambda": {
-      "key": "Lambda",
-      "scope": "tags",
-      "path": "/tag/Lambda/",
-      "pageKeys": [
-        "v-1de00e7b"
-      ]
-    },
     "IDEA": {
       "key": "IDEA",
       "scope": "tags",
@@ -64,13 +37,39 @@ export default {
         "v-af2edb96"
       ]
     },
-    "TypeScript": {
-      "key": "TypeScript",
+    "Javascript": {
+      "key": "Javascript",
       "scope": "tags",
-      "path": "/tag/TypeScript/",
+      "path": "/tag/Javascript/",
       "pageKeys": [
-        "v-2707771a",
-        "v-ba2d4322"
+        "v-03ea0756",
+        "v-28acc7f4",
+        "v-1c946e75",
+        "v-c07dbf08",
+        "v-a6a3607c",
+        "v-964a33f6",
+        "v-b9fb28f6",
+        "v-7748193b",
+        "v-656f9ebb",
+        "v-9d78ab64",
+        "v-cc371236",
+        "v-4f28a414"
+      ]
+    },
+    "Lambda": {
+      "key": "Lambda",
+      "scope": "tags",
+      "path": "/tag/Lambda/",
+      "pageKeys": [
+        "v-1de00e7b"
+      ]
+    },
+    "Pinia": {
+      "key": "Pinia",
+      "scope": "tags",
+      "path": "/tag/Pinia/",
+      "pageKeys": [
+        "v-76aa7db6"
       ]
     },
     "SpringBoot": {
@@ -89,12 +88,13 @@ export default {
         "v-a2730a74"
       ]
     },
-    "Pinia": {
-      "key": "Pinia",
+    "TypeScript": {
+      "key": "TypeScript",
       "scope": "tags",
-      "path": "/tag/Pinia/",
+      "path": "/tag/TypeScript/",
       "pageKeys": [
-        "v-76aa7db6"
+        "v-2707771a",
+        "v-ba2d4322"
       ]
     },
     "Vue": {
@@ -102,9 +102,9 @@ export default {
       "scope": "tags",
       "path": "/tag/Vue/",
       "pageKeys": [
-        "v-b9fb28f6",
         "v-a6a3607c",
         "v-964a33f6",
+        "v-b9fb28f6",
         "v-7748193b",
         "v-656f9ebb",
         "v-9d78ab64",
@@ -112,14 +112,6 @@ export default {
         "v-4f28a414",
         "v-25305652",
         "v-7c16f5de"
-      ]
-    },
-    "一切都刚刚好": {
-      "key": "一切都刚刚好",
-      "scope": "tags",
-      "path": "/tag/一切都刚刚好/",
-      "pageKeys": [
-        "v-cbb13aa4"
       ]
     },
     "payment": {
@@ -129,6 +121,14 @@ export default {
       "pageKeys": [
         "v-28fd3a72"
       ]
+    },
+    "一切都刚刚好": {
+      "key": "一切都刚刚好",
+      "scope": "tags",
+      "path": "/tag/一切都刚刚好/",
+      "pageKeys": [
+        "v-cbb13aa4"
+      ]
     }
   },
   "categories": {
@@ -137,18 +137,18 @@ export default {
       "scope": "categories",
       "path": "/categories/技术/",
       "pageKeys": [
-        "v-03ea0756",
         "v-3e68fda2",
         "v-af2edb96",
+        "v-03ea0756",
         "v-28acc7f4",
-        "v-2707771a",
-        "v-a2730a74",
         "v-76aa7db6",
-        "v-b9fb28f6",
-        "v-ba2d4322",
+        "v-a2730a74",
+        "v-2707771a",
         "v-c07dbf08",
+        "v-ba2d4322",
         "v-a6a3607c",
         "v-964a33f6",
+        "v-b9fb28f6",
         "v-7748193b",
         "v-656f9ebb",
         "v-9d78ab64",
@@ -156,6 +156,14 @@ export default {
         "v-4f28a414",
         "v-25305652",
         "v-7c16f5de"
+      ]
+    },
+    "技巧": {
+      "key": "技巧",
+      "scope": "categories",
+      "path": "/categories/技巧/",
+      "pageKeys": [
+        "v-dee8eb26"
       ]
     },
     "专题": {
@@ -166,14 +174,6 @@ export default {
         "v-1de00e7b",
         "v-1c946e75",
         "v-28fd3a72"
-      ]
-    },
-    "技巧": {
-      "key": "技巧",
-      "scope": "categories",
-      "path": "/categories/技巧/",
-      "pageKeys": [
-        "v-dee8eb26"
       ]
     },
     "情感": {
