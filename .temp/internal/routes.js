@@ -25,38 +25,6 @@ export const routes = [
     redirect: "/BlogItem/Arrays%E7%9A%84%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95.html"
   },
   {
-    name: "v-dee8eb26",
-    path: "/BlogItem/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-dee8eb26").then(next)
-    },
-  },
-  {
-    path: "/BlogItem/IDEA常用快捷键.html",
-    redirect: "/BlogItem/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html"
-  },
-  {
-    path: "/BlogItem/IDEA常用快捷键.html",
-    redirect: "/BlogItem/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html"
-  },
-  {
-    name: "v-af2edb96",
-    path: "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-af2edb96").then(next)
-    },
-  },
-  {
-    path: "/BlogItem/Git 基础教程.html",
-    redirect: "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html"
-  },
-  {
-    path: "/BlogItem/Git 基础教程.html",
-    redirect: "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html"
-  },
-  {
     name: "v-03ea0756",
     path: "/BlogItem/DOM%E5%92%8CBOM%E6%95%99%E7%A8%8B.html",
     component: GlobalLayout,
@@ -73,6 +41,22 @@ export const routes = [
     redirect: "/BlogItem/DOM%E5%92%8CBOM%E6%95%99%E7%A8%8B.html"
   },
   {
+    name: "v-dee8eb26",
+    path: "/BlogItem/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-dee8eb26").then(next)
+    },
+  },
+  {
+    path: "/BlogItem/IDEA常用快捷键.html",
+    redirect: "/BlogItem/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html"
+  },
+  {
+    path: "/BlogItem/IDEA常用快捷键.html",
+    redirect: "/BlogItem/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html"
+  },
+  {
     name: "v-28acc7f4",
     path: "/BlogItem/JavaScript%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.html",
     component: GlobalLayout,
@@ -87,6 +71,22 @@ export const routes = [
   {
     path: "/BlogItem/JavaScript进阶教程.html",
     redirect: "/BlogItem/JavaScript%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.html"
+  },
+  {
+    name: "v-af2edb96",
+    path: "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-af2edb96").then(next)
+    },
+  },
+  {
+    path: "/BlogItem/Git 基础教程.html",
+    redirect: "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html"
+  },
+  {
+    path: "/BlogItem/Git 基础教程.html",
+    redirect: "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html"
   },
   {
     name: "v-1de00e7b",
@@ -121,6 +121,22 @@ export const routes = [
     redirect: "/BlogItem/Mock.js%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html"
   },
   {
+    name: "v-c07dbf08",
+    path: "/BlogItem/Node.js%E6%95%99%E7%A8%8B.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-c07dbf08").then(next)
+    },
+  },
+  {
+    path: "/BlogItem/Node.js教程.html",
+    redirect: "/BlogItem/Node.js%E6%95%99%E7%A8%8B.html"
+  },
+  {
+    path: "/BlogItem/Node.js教程.html",
+    redirect: "/BlogItem/Node.js%E6%95%99%E7%A8%8B.html"
+  },
+  {
     name: "v-76aa7db6",
     path: "/BlogItem/Pinia%E5%85%A5%E9%97%A8.html",
     component: GlobalLayout,
@@ -135,22 +151,6 @@ export const routes = [
   {
     path: "/BlogItem/Pinia入门.html",
     redirect: "/BlogItem/Pinia%E5%85%A5%E9%97%A8.html"
-  },
-  {
-    name: "v-a2730a74",
-    path: "/BlogItem/SpringBootWeb%20-%20AOP.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-a2730a74").then(next)
-    },
-  },
-  {
-    path: "/BlogItem/SpringBootWeb - AOP.html",
-    redirect: "/BlogItem/SpringBootWeb%20-%20AOP.html"
-  },
-  {
-    path: "/BlogItem/SpringBootWeb - AOP.html",
-    redirect: "/BlogItem/SpringBootWeb%20-%20AOP.html"
   },
   {
     name: "v-2707771a",
@@ -169,20 +169,52 @@ export const routes = [
     redirect: "/BlogItem/TypeScript%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.html"
   },
   {
-    name: "v-c07dbf08",
-    path: "/BlogItem/Node.js%E6%95%99%E7%A8%8B.html",
+    name: "v-a2730a74",
+    path: "/BlogItem/SpringBootWeb%20-%20AOP.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-c07dbf08").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-a2730a74").then(next)
     },
   },
   {
-    path: "/BlogItem/Node.js教程.html",
-    redirect: "/BlogItem/Node.js%E6%95%99%E7%A8%8B.html"
+    path: "/BlogItem/SpringBootWeb - AOP.html",
+    redirect: "/BlogItem/SpringBootWeb%20-%20AOP.html"
   },
   {
-    path: "/BlogItem/Node.js教程.html",
-    redirect: "/BlogItem/Node.js%E6%95%99%E7%A8%8B.html"
+    path: "/BlogItem/SpringBootWeb - AOP.html",
+    redirect: "/BlogItem/SpringBootWeb%20-%20AOP.html"
+  },
+  {
+    name: "v-523143e6",
+    path: "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-523143e6").then(next)
+    },
+  },
+  {
+    path: "/BlogItem/commit 提交规范.html",
+    redirect: "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html"
+  },
+  {
+    path: "/BlogItem/commit 提交规范.html",
+    redirect: "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html"
+  },
+  {
+    name: "v-b9fb28f6",
+    path: "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-b9fb28f6").then(next)
+    },
+  },
+  {
+    path: "/BlogItem/vue3 Ⅱ vue 组件基础（上）.html",
+    redirect: "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html"
+  },
+  {
+    path: "/BlogItem/vue3 Ⅱ vue 组件基础（上）.html",
+    redirect: "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html"
   },
   {
     name: "v-ba2d4322",
@@ -231,22 +263,6 @@ export const routes = [
   {
     path: "/BlogItem/vue3 Ⅲ vue 组件基础（下）.html",
     redirect: "/BlogItem/vue3%20%E2%85%A2%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8B%EF%BC%89.html"
-  },
-  {
-    name: "v-b9fb28f6",
-    path: "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-b9fb28f6").then(next)
-    },
-  },
-  {
-    path: "/BlogItem/vue3 Ⅱ vue 组件基础（上）.html",
-    redirect: "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html"
-  },
-  {
-    path: "/BlogItem/vue3 Ⅱ vue 组件基础（上）.html",
-    redirect: "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html"
   },
   {
     name: "v-7748193b",
@@ -377,18 +393,6 @@ export const routes = [
     redirect: "/BlogItem/%E6%88%91%E4%BB%AC%E7%9A%84%E6%95%85%E4%BA%8B.html"
   },
   {
-    name: "v-6ac3a860",
-    path: "/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6ac3a860").then(next)
-    },
-  },
-  {
-    path: "/index.html",
-    redirect: "/"
-  },
-  {
     name: "v-7c16f5de",
     path: "/BlogItem/%E8%B7%AF%E5%BE%84%E5%88%AB%E5%90%8D%20ElementPlus%20Sass%E9%85%8D%E7%BD%AE.html",
     component: GlobalLayout,
@@ -403,6 +407,18 @@ export const routes = [
   {
     path: "/BlogItem/路径别名 ElementPlus Sass配置.html",
     redirect: "/BlogItem/%E8%B7%AF%E5%BE%84%E5%88%AB%E5%90%8D%20ElementPlus%20Sass%E9%85%8D%E7%BD%AE.html"
+  },
+  {
+    name: "v-6ac3a860",
+    path: "/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6ac3a860").then(next)
+    },
+  },
+  {
+    path: "/index.html",
+    redirect: "/"
   },
   {
     name: "v-b1564aac",
@@ -470,6 +486,19 @@ export const routes = [
     redirect: "/tag/Arrays/"
   },
   {
+    name: "v-5f97b358",
+    path: "/tag/Javascript/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Tag", "v-5f97b358").then(next)
+    },
+    meta: {"pid":"tags","id":"Javascript"}
+  },
+  {
+    path: "/tag/Javascript/index.html",
+    redirect: "/tag/Javascript/"
+  },
+  {
     name: "v-184030a4",
     path: "/tag/IDEA/",
     component: GlobalLayout,
@@ -483,30 +512,17 @@ export const routes = [
     redirect: "/tag/IDEA/"
   },
   {
-    name: "v-32383f72",
-    path: "/tag/git/",
+    name: "v-32555732",
+    path: "/tag/Git/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Tag", "v-32383f72").then(next)
+      ensureAsyncComponentsLoaded("Tag", "v-32555732").then(next)
     },
-    meta: {"pid":"tags","id":"git"}
+    meta: {"pid":"tags","id":"Git"}
   },
   {
-    path: "/tag/git/index.html",
-    redirect: "/tag/git/"
-  },
-  {
-    name: "v-5f97b358",
-    path: "/tag/Javascript/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Tag", "v-5f97b358").then(next)
-    },
-    meta: {"pid":"tags","id":"Javascript"}
-  },
-  {
-    path: "/tag/Javascript/index.html",
-    redirect: "/tag/Javascript/"
+    path: "/tag/Git/index.html",
+    redirect: "/tag/Git/"
   },
   {
     name: "v-4df76f3e",
@@ -535,6 +551,19 @@ export const routes = [
     redirect: "/tag/Pinia/"
   },
   {
+    name: "v-bee809c0",
+    path: "/tag/TypeScript/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Tag", "v-bee809c0").then(next)
+    },
+    meta: {"pid":"tags","id":"TypeScript"}
+  },
+  {
+    path: "/tag/TypeScript/index.html",
+    redirect: "/tag/TypeScript/"
+  },
+  {
     name: "v-54cc5f34",
     path: "/tag/SpringBoot/",
     component: GlobalLayout,
@@ -559,19 +588,6 @@ export const routes = [
   {
     path: "/tag/AOP/index.html",
     redirect: "/tag/AOP/"
-  },
-  {
-    name: "v-bee809c0",
-    path: "/tag/TypeScript/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Tag", "v-bee809c0").then(next)
-    },
-    meta: {"pid":"tags","id":"TypeScript"}
-  },
-  {
-    path: "/tag/TypeScript/index.html",
-    redirect: "/tag/TypeScript/"
   },
   {
     name: "v-32475d9a",

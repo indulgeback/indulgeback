@@ -3,8 +3,7 @@ module.exports = {
 	description: 'May there be enough clouds in your life to make a beautiful sunset.',
 	theme: 'reco',
 	logo: '/logo.png',
-	// base: './', // 部署时
-	base: '/', // 开发时
+	base: '/',
 	locales: {
 		'/': {
 			lang: 'zh-CN'

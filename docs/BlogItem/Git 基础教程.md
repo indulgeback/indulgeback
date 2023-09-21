@@ -5,7 +5,7 @@ author: liuwy
 categories:
  - 技术
 tags:
- - git
+ - Git
 ---
 
 ## 01.Git 初识
