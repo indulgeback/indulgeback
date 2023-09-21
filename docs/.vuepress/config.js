@@ -1,10 +1,10 @@
 module.exports = {
 	title: 'IndulgeBack',
-	description: 'Always Struggle',
+	description: 'May there be enough clouds in your life to make a beautiful sunset.',
 	theme: 'reco',
 	logo: '/logo.png',
-	base: './', // 部署时
-	// base: '/', // 开发时
+	// base: './', // 部署时
+	base: '/', // 开发时
 	locales: {
 		'/': {
 			lang: 'zh-CN'
@@ -20,7 +20,7 @@ module.exports = {
 		blogConfig: {
 			category: {
 				location: 2,     // 在导航栏菜单中所占的位置，默认2
-				text: '分类' // 默认文案 “分类”
+				text: '分类'     // 默认文案 “分类”
 			},
 			tag: {
 				location: 3,     // 在导航栏菜单中所占的位置，默认3
@@ -49,6 +49,16 @@ module.exports = {
 		]
 	},
 	plugins: [
+		// 提示更新网站内容
+		[
+			'@vuepress/pwa', {
+				serviceWorker: true,
+				updatePopup: {
+					message: '发现新内容可用',
+					buttonText: '刷新'
+				}
+			}
+		],
 		// 返回最上面的吊绳猫
 		[
 			'go-top'

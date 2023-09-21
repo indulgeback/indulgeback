@@ -1,1 +1,1 @@
-export { default } from "E:\\WebFontEnd\\Projects\\indulge-back-blog-devlopment\\node_modules\\vuepress-plugin-dynamic-title\\bin\\enhanceAppFile.js"
+export { default } from "D:\\WebFontEnd\\Projects\\vuepress2-MyBlog-GitHub\\node_modules\\vuepress-plugin-ribbon-animation\\bin\\enhanceAppFile.js"

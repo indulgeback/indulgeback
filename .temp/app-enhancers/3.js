@@ -1,1 +1,1 @@
-export { default } from "E:\\WebFontEnd\\Projects\\indulge-back-blog-devlopment\\node_modules\\@vuepress-reco\\vuepress-plugin-pagation\\bin\\enhanceAppFile.js"
+export { default } from "D:\\WebFontEnd\\Projects\\vuepress2-MyBlog-GitHub\\node_modules\\@vuepress-reco\\vuepress-plugin-pagation\\bin\\enhanceAppFile.js"

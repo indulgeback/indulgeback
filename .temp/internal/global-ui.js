@@ -1,5 +1,6 @@
 export default [
   "BackToTop",
+  "SWUpdatePopup",
   "GoTop",
   "CursorEffects",
   "Live2D",
