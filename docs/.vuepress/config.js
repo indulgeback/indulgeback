@@ -181,7 +181,7 @@ module.exports = {
 						name: 'Love Yourself',
 						artist: 'Justin Bieber',
 						url: '/bgm/Love Yourself - Justin Bieber.mp3',
-						cover: '/bgm/LoveYourSelf.png'
+						cover: '/bgm/Love Yourself.png'
 					},
 					{
 						name: '半岛铁盒',
