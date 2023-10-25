@@ -80,6 +80,117 @@ export const siteData = {
       "size": "2.32kb"
     },
     {
+      "title": "CSS预编译器——Sass 从入门到熟练使用",
+      "frontmatter": {
+        "title": "CSS预编译器——Sass 从入门到熟练使用",
+        "date": "2023-10-20T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "技术"
+        ],
+        "tags": [
+          "Sass"
+        ]
+      },
+      "regularPath": "/BlogItem/CSS%E9%A2%84%E7%BC%96%E8%AF%91%E5%99%A8%E2%80%94%E2%80%94Sass%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%BD%BF%E7%94%A8.html",
+      "relativePath": "BlogItem/CSS预编译器——Sass 从入门到使用.md",
+      "key": "v-f8682c8a",
+      "path": "/BlogItem/CSS%E9%A2%84%E7%BC%96%E8%AF%91%E5%99%A8%E2%80%94%E2%80%94Sass%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%BD%BF%E7%94%A8.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一、Sass是什么？",
+          "slug": "一、sass是什么"
+        },
+        {
+          "level": 3,
+          "title": "1.特色功能",
+          "slug": "_1-特色功能"
+        },
+        {
+          "level": 3,
+          "title": "2.语法格式",
+          "slug": "_2-语法格式"
+        },
+        {
+          "level": 2,
+          "title": "二、Sass 的使用",
+          "slug": "二、sass-的使用"
+        },
+        {
+          "level": 3,
+          "title": "1.安装 sass",
+          "slug": "_1-安装-sass"
+        },
+        {
+          "level": 3,
+          "title": "2.编写 npm script",
+          "slug": "_2-编写-npm-script"
+        },
+        {
+          "level": 2,
+          "title": "三、Sass 对 CSS 的功能扩展",
+          "slug": "三、sass-对-css-的功能扩展"
+        },
+        {
+          "level": 3,
+          "title": "1.嵌套规则",
+          "slug": "_1-嵌套规则"
+        },
+        {
+          "level": 3,
+          "title": "2.父选择器&",
+          "slug": "_2-父选择器"
+        },
+        {
+          "level": 3,
+          "title": "3.属性嵌套",
+          "slug": "_3-属性嵌套"
+        },
+        {
+          "level": 3,
+          "title": "4.占位符选择器 %foo",
+          "slug": "_4-占位符选择器-foo"
+        },
+        {
+          "level": 3,
+          "title": "5.注释",
+          "slug": "_5-注释"
+        },
+        {
+          "level": 3,
+          "title": "6.SassScript",
+          "slug": "_6-sassscript"
+        },
+        {
+          "level": 2,
+          "title": "四、指令系统",
+          "slug": "四、指令系统"
+        },
+        {
+          "level": 3,
+          "title": "1.@-Rules 与 延伸指令",
+          "slug": "_1-rules-与-延伸指令"
+        },
+        {
+          "level": 3,
+          "title": "2.混合指令",
+          "slug": "_2-混合指令"
+        },
+        {
+          "level": 3,
+          "title": "3.控制指令",
+          "slug": "_3-控制指令"
+        },
+        {
+          "level": 3,
+          "title": "4.函数指令",
+          "slug": "_4-函数指令"
+        }
+      ],
+      "size": "21.03kb"
+    },
+    {
       "title": "DOM和BOM操作的整合",
       "frontmatter": {
         "title": "DOM和BOM操作的整合",
@@ -361,6 +472,122 @@ export const siteData = {
       "size": "31.07kb"
     },
     {
+      "title": "Git 基础教程",
+      "frontmatter": {
+        "title": "Git 基础教程",
+        "date": "2023-07-01T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "技术"
+        ],
+        "tags": [
+          "Git"
+        ]
+      },
+      "regularPath": "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html",
+      "relativePath": "BlogItem/Git 基础教程.md",
+      "key": "v-af2edb96",
+      "path": "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "01.Git 初识",
+          "slug": "_01-git-初识"
+        },
+        {
+          "level": 2,
+          "title": "02.Git 仓库",
+          "slug": "_02-git-仓库"
+        },
+        {
+          "level": 2,
+          "title": "03.Git 的三个区域",
+          "slug": "_03-git-的三个区域"
+        },
+        {
+          "level": 2,
+          "title": "04.Git 文件状态",
+          "slug": "_04-git-文件状态"
+        },
+        {
+          "level": 2,
+          "title": "05.Git 暂存区作用",
+          "slug": "_05-git-暂存区作用"
+        },
+        {
+          "level": 2,
+          "title": "06.Git-切换版本",
+          "slug": "_06-git-切换版本"
+        },
+        {
+          "level": 2,
+          "title": "07.删除文件",
+          "slug": "_07-删除文件"
+        },
+        {
+          "level": 2,
+          "title": "08.忽略文件",
+          "slug": "_08-忽略文件"
+        },
+        {
+          "level": 2,
+          "title": "09.分支的概念",
+          "slug": "_09-分支的概念"
+        },
+        {
+          "level": 2,
+          "title": "10.练习-登录 bug 修复",
+          "slug": "_10-练习-登录-bug-修复"
+        },
+        {
+          "level": 2,
+          "title": "11.分支-合并与删除",
+          "slug": "_11-分支-合并与删除"
+        },
+        {
+          "level": 2,
+          "title": "12.分支-合并与提交",
+          "slug": "_12-分支-合并与提交"
+        },
+        {
+          "level": 2,
+          "title": "13.分支-合并冲突",
+          "slug": "_13-分支-合并冲突"
+        },
+        {
+          "level": 2,
+          "title": "14.Git 常用命令",
+          "slug": "_14-git-常用命令"
+        },
+        {
+          "level": 2,
+          "title": "15.Git 远程仓库",
+          "slug": "_15-git-远程仓库"
+        },
+        {
+          "level": 2,
+          "title": "16.Git 远程仓库 - 克隆",
+          "slug": "_16-git-远程仓库-克隆"
+        },
+        {
+          "level": 2,
+          "title": "17.多人协同开发",
+          "slug": "_17-多人协同开发"
+        },
+        {
+          "level": 2,
+          "title": "18.VSCode 中使用 Git",
+          "slug": "_18-vscode-中使用-git"
+        },
+        {
+          "level": 2,
+          "title": "19.Git 常用命令",
+          "slug": "_19-git-常用命令"
+        }
+      ],
+      "size": "7.95kb"
+    },
+    {
       "title": "IDEA 常用快捷键",
       "frontmatter": {
         "title": "IDEA 常用快捷键",
@@ -415,6 +642,174 @@ export const siteData = {
         }
       ],
       "size": "6.06kb"
+    },
+    {
+      "title": "Mock.js快速入门",
+      "frontmatter": {
+        "title": "Mock.js快速入门",
+        "date": "2023-09-12T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "专题"
+        ],
+        "tags": [
+          "Javascript"
+        ]
+      },
+      "regularPath": "/BlogItem/Mock.js%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html",
+      "relativePath": "BlogItem/Mock.js快速入门.md",
+      "key": "v-1c946e75",
+      "path": "/BlogItem/Mock.js%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一、什么是Mock.js",
+          "slug": "一、什么是mock-js"
+        },
+        {
+          "level": 2,
+          "title": "二、安装 Mock.js",
+          "slug": "二、安装-mock-js"
+        },
+        {
+          "level": 3,
+          "title": "1.通过 npm 安装 Mock.js",
+          "slug": "_1-通过-npm-安装-mock-js"
+        },
+        {
+          "level": 3,
+          "title": "2.通过 yarn 安装 Mock.js",
+          "slug": "_2-通过-yarn-安装-mock-js"
+        },
+        {
+          "level": 3,
+          "title": "3.通过 pnpm 安装 Mock.js",
+          "slug": "_3-通过-pnpm-安装-mock-js"
+        },
+        {
+          "level": 2,
+          "title": "三、使用 Mock.js",
+          "slug": "三、使用-mock-js"
+        },
+        {
+          "level": 2,
+          "title": "四、使用 Mock 生成数据的语法",
+          "slug": "四、使用-mock-生成数据的语法"
+        },
+        {
+          "level": 3,
+          "title": "1.生成指定类型",
+          "slug": "_1-生成指定类型"
+        },
+        {
+          "level": 3,
+          "title": "2.生成文字",
+          "slug": "_2-生成文字"
+        },
+        {
+          "level": 3,
+          "title": "3.生成增量id",
+          "slug": "_3-生成增量id"
+        },
+        {
+          "level": 3,
+          "title": "4.生成姓名-地址-身份证号",
+          "slug": "_4-生成姓名-地址-身份证号"
+        },
+        {
+          "level": 3,
+          "title": "5.生成随机图片",
+          "slug": "_5-生成随机图片"
+        },
+        {
+          "level": 3,
+          "title": "6.生成时间",
+          "slug": "_6-生成时间"
+        },
+        {
+          "level": 3,
+          "title": "7.生成列表",
+          "slug": "_7-生成列表"
+        },
+        {
+          "level": 2,
+          "title": "五、使用 Mock 拦截请求",
+          "slug": "五、使用-mock-拦截请求"
+        },
+        {
+          "level": 3,
+          "title": "1.定义拦截 GET 请求",
+          "slug": "_1-定义拦截-get-请求"
+        },
+        {
+          "level": 3,
+          "title": "2.定义拦截 POST 请求",
+          "slug": "_2-定义拦截-post-请求"
+        },
+        {
+          "level": 3,
+          "title": "3.回调函数形式",
+          "slug": "_3-回调函数形式"
+        },
+        {
+          "level": 3,
+          "title": "4.请求的接口地址可以使用正则表达式",
+          "slug": "_4-请求的接口地址可以使用正则表达式"
+        },
+        {
+          "level": 3,
+          "title": "5.自定义函数获取url中的参数",
+          "slug": "_5-自定义函数获取url中的参数"
+        },
+        {
+          "level": 3,
+          "title": "6.获取 POST 请求中的 body",
+          "slug": "_6-获取-post-请求中的-body"
+        }
+      ],
+      "size": "4.82kb"
+    },
+    {
+      "title": "Lambda 表达式",
+      "frontmatter": {
+        "title": "Lambda 表达式",
+        "date": "2023-09-19T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "专题"
+        ],
+        "tags": [
+          "Java",
+          "Lambda"
+        ]
+      },
+      "regularPath": "/BlogItem/Lambda%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.html",
+      "relativePath": "BlogItem/Lambda 表达式.md",
+      "key": "v-1de00e7b",
+      "path": "/BlogItem/Lambda%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "1.Lambda表达式的标准格式",
+          "slug": "_1-lambda表达式的标准格式"
+        },
+        {
+          "level": 3,
+          "title": "2.Lambda 表达式的具体使用场景",
+          "slug": "_2-lambda-表达式的具体使用场景"
+        },
+        {
+          "level": 3,
+          "title": "3.Lambda 表达式的省略规则",
+          "slug": "_3-lambda-表达式的省略规则"
+        },
+        {
+          "level": 3,
+          "title": "4.Lambda 表达式使用示例",
+          "slug": "_4-lambda-表达式使用示例"
+        }
+      ],
+      "size": "1.66kb"
     },
     {
       "title": "JavaScript 进阶教程",
@@ -671,290 +1066,6 @@ export const siteData = {
         }
       ],
       "size": "34.72kb"
-    },
-    {
-      "title": "Git 基础教程",
-      "frontmatter": {
-        "title": "Git 基础教程",
-        "date": "2023-07-01T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "技术"
-        ],
-        "tags": [
-          "Git"
-        ]
-      },
-      "regularPath": "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html",
-      "relativePath": "BlogItem/Git 基础教程.md",
-      "key": "v-af2edb96",
-      "path": "/BlogItem/Git%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "01.Git 初识",
-          "slug": "_01-git-初识"
-        },
-        {
-          "level": 2,
-          "title": "02.Git 仓库",
-          "slug": "_02-git-仓库"
-        },
-        {
-          "level": 2,
-          "title": "03.Git 的三个区域",
-          "slug": "_03-git-的三个区域"
-        },
-        {
-          "level": 2,
-          "title": "04.Git 文件状态",
-          "slug": "_04-git-文件状态"
-        },
-        {
-          "level": 2,
-          "title": "05.Git 暂存区作用",
-          "slug": "_05-git-暂存区作用"
-        },
-        {
-          "level": 2,
-          "title": "06.Git-切换版本",
-          "slug": "_06-git-切换版本"
-        },
-        {
-          "level": 2,
-          "title": "07.删除文件",
-          "slug": "_07-删除文件"
-        },
-        {
-          "level": 2,
-          "title": "08.忽略文件",
-          "slug": "_08-忽略文件"
-        },
-        {
-          "level": 2,
-          "title": "09.分支的概念",
-          "slug": "_09-分支的概念"
-        },
-        {
-          "level": 2,
-          "title": "10.练习-登录 bug 修复",
-          "slug": "_10-练习-登录-bug-修复"
-        },
-        {
-          "level": 2,
-          "title": "11.分支-合并与删除",
-          "slug": "_11-分支-合并与删除"
-        },
-        {
-          "level": 2,
-          "title": "12.分支-合并与提交",
-          "slug": "_12-分支-合并与提交"
-        },
-        {
-          "level": 2,
-          "title": "13.分支-合并冲突",
-          "slug": "_13-分支-合并冲突"
-        },
-        {
-          "level": 2,
-          "title": "14.Git 常用命令",
-          "slug": "_14-git-常用命令"
-        },
-        {
-          "level": 2,
-          "title": "15.Git 远程仓库",
-          "slug": "_15-git-远程仓库"
-        },
-        {
-          "level": 2,
-          "title": "16.Git 远程仓库 - 克隆",
-          "slug": "_16-git-远程仓库-克隆"
-        },
-        {
-          "level": 2,
-          "title": "17.多人协同开发",
-          "slug": "_17-多人协同开发"
-        },
-        {
-          "level": 2,
-          "title": "18.VSCode 中使用 Git",
-          "slug": "_18-vscode-中使用-git"
-        },
-        {
-          "level": 2,
-          "title": "19.Git 常用命令",
-          "slug": "_19-git-常用命令"
-        }
-      ],
-      "size": "7.95kb"
-    },
-    {
-      "title": "Lambda 表达式",
-      "frontmatter": {
-        "title": "Lambda 表达式",
-        "date": "2023-09-19T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "专题"
-        ],
-        "tags": [
-          "Java",
-          "Lambda"
-        ]
-      },
-      "regularPath": "/BlogItem/Lambda%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.html",
-      "relativePath": "BlogItem/Lambda 表达式.md",
-      "key": "v-1de00e7b",
-      "path": "/BlogItem/Lambda%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "1.Lambda表达式的标准格式",
-          "slug": "_1-lambda表达式的标准格式"
-        },
-        {
-          "level": 3,
-          "title": "2.Lambda 表达式的具体使用场景",
-          "slug": "_2-lambda-表达式的具体使用场景"
-        },
-        {
-          "level": 3,
-          "title": "3.Lambda 表达式的省略规则",
-          "slug": "_3-lambda-表达式的省略规则"
-        },
-        {
-          "level": 3,
-          "title": "4.Lambda 表达式使用示例",
-          "slug": "_4-lambda-表达式使用示例"
-        }
-      ],
-      "size": "1.66kb"
-    },
-    {
-      "title": "Mock.js快速入门",
-      "frontmatter": {
-        "title": "Mock.js快速入门",
-        "date": "2023-09-12T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "专题"
-        ],
-        "tags": [
-          "Javascript"
-        ]
-      },
-      "regularPath": "/BlogItem/Mock.js%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html",
-      "relativePath": "BlogItem/Mock.js快速入门.md",
-      "key": "v-1c946e75",
-      "path": "/BlogItem/Mock.js%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "一、什么是Mock.js",
-          "slug": "一、什么是mock-js"
-        },
-        {
-          "level": 2,
-          "title": "二、安装 Mock.js",
-          "slug": "二、安装-mock-js"
-        },
-        {
-          "level": 3,
-          "title": "1.通过 npm 安装 Mock.js",
-          "slug": "_1-通过-npm-安装-mock-js"
-        },
-        {
-          "level": 3,
-          "title": "2.通过 yarn 安装 Mock.js",
-          "slug": "_2-通过-yarn-安装-mock-js"
-        },
-        {
-          "level": 3,
-          "title": "3.通过 pnpm 安装 Mock.js",
-          "slug": "_3-通过-pnpm-安装-mock-js"
-        },
-        {
-          "level": 2,
-          "title": "三、使用 Mock.js",
-          "slug": "三、使用-mock-js"
-        },
-        {
-          "level": 2,
-          "title": "四、使用 Mock 生成数据的语法",
-          "slug": "四、使用-mock-生成数据的语法"
-        },
-        {
-          "level": 3,
-          "title": "1.生成指定类型",
-          "slug": "_1-生成指定类型"
-        },
-        {
-          "level": 3,
-          "title": "2.生成文字",
-          "slug": "_2-生成文字"
-        },
-        {
-          "level": 3,
-          "title": "3.生成增量id",
-          "slug": "_3-生成增量id"
-        },
-        {
-          "level": 3,
-          "title": "4.生成姓名-地址-身份证号",
-          "slug": "_4-生成姓名-地址-身份证号"
-        },
-        {
-          "level": 3,
-          "title": "5.生成随机图片",
-          "slug": "_5-生成随机图片"
-        },
-        {
-          "level": 3,
-          "title": "6.生成时间",
-          "slug": "_6-生成时间"
-        },
-        {
-          "level": 3,
-          "title": "7.生成列表",
-          "slug": "_7-生成列表"
-        },
-        {
-          "level": 2,
-          "title": "五、使用 Mock 拦截请求",
-          "slug": "五、使用-mock-拦截请求"
-        },
-        {
-          "level": 3,
-          "title": "1.定义拦截 GET 请求",
-          "slug": "_1-定义拦截-get-请求"
-        },
-        {
-          "level": 3,
-          "title": "2.定义拦截 POST 请求",
-          "slug": "_2-定义拦截-post-请求"
-        },
-        {
-          "level": 3,
-          "title": "3.回调函数形式",
-          "slug": "_3-回调函数形式"
-        },
-        {
-          "level": 3,
-          "title": "4.请求的接口地址可以使用正则表达式",
-          "slug": "_4-请求的接口地址可以使用正则表达式"
-        },
-        {
-          "level": 3,
-          "title": "5.自定义函数获取url中的参数",
-          "slug": "_5-自定义函数获取url中的参数"
-        },
-        {
-          "level": 3,
-          "title": "6.获取 POST 请求中的 body",
-          "slug": "_6-获取-post-请求中的-body"
-        }
-      ],
-      "size": "4.82kb"
     },
     {
       "title": "Node.js教程",
@@ -1489,6 +1600,74 @@ export const siteData = {
       "size": "2.76kb"
     },
     {
+      "title": "SpringBootWeb - AOP",
+      "frontmatter": {
+        "title": "SpringBootWeb - AOP",
+        "date": "2023-9-14",
+        "author": "liuwy",
+        "categories": [
+          "技术"
+        ],
+        "tags": [
+          "Java",
+          "SpringBoot",
+          "AOP"
+        ]
+      },
+      "regularPath": "/BlogItem/SpringBootWeb%20-%20AOP.html",
+      "relativePath": "BlogItem/SpringBootWeb - AOP.md",
+      "key": "v-a2730a74",
+      "path": "/BlogItem/SpringBootWeb%20-%20AOP.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一、AOP 概述",
+          "slug": "一、aop-概述"
+        },
+        {
+          "level": 3,
+          "title": "1.什么是AOP？",
+          "slug": "_1-什么是aop"
+        },
+        {
+          "level": 3,
+          "title": "2.AOP快速入门",
+          "slug": "_2-aop快速入门"
+        },
+        {
+          "level": 3,
+          "title": "3.AOP核心概念",
+          "slug": "_3-aop核心概念"
+        },
+        {
+          "level": 2,
+          "title": "二、AOP进阶",
+          "slug": "二、aop进阶"
+        },
+        {
+          "level": 3,
+          "title": "1 通知类型",
+          "slug": "_1-通知类型"
+        },
+        {
+          "level": 3,
+          "title": "2 通知顺序",
+          "slug": "_2-通知顺序"
+        },
+        {
+          "level": 3,
+          "title": "3 切入点表达式",
+          "slug": "_3-切入点表达式"
+        },
+        {
+          "level": 3,
+          "title": "4 连接点",
+          "slug": "_4-连接点"
+        }
+      ],
+      "size": "17.61kb"
+    },
+    {
       "title": "TypeScript 基础语法",
       "frontmatter": {
         "title": "TypeScript 基础语法",
@@ -1665,245 +1844,6 @@ export const siteData = {
       "size": "7.60kb"
     },
     {
-      "title": "SpringBootWeb - AOP",
-      "frontmatter": {
-        "title": "SpringBootWeb - AOP",
-        "date": "2023-9-14",
-        "author": "liuwy",
-        "categories": [
-          "技术"
-        ],
-        "tags": [
-          "Java",
-          "SpringBoot",
-          "AOP"
-        ]
-      },
-      "regularPath": "/BlogItem/SpringBootWeb%20-%20AOP.html",
-      "relativePath": "BlogItem/SpringBootWeb - AOP.md",
-      "key": "v-a2730a74",
-      "path": "/BlogItem/SpringBootWeb%20-%20AOP.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "一、AOP 概述",
-          "slug": "一、aop-概述"
-        },
-        {
-          "level": 3,
-          "title": "1.什么是AOP？",
-          "slug": "_1-什么是aop"
-        },
-        {
-          "level": 3,
-          "title": "2.AOP快速入门",
-          "slug": "_2-aop快速入门"
-        },
-        {
-          "level": 3,
-          "title": "3.AOP核心概念",
-          "slug": "_3-aop核心概念"
-        },
-        {
-          "level": 2,
-          "title": "二、AOP进阶",
-          "slug": "二、aop进阶"
-        },
-        {
-          "level": 3,
-          "title": "1 通知类型",
-          "slug": "_1-通知类型"
-        },
-        {
-          "level": 3,
-          "title": "2 通知顺序",
-          "slug": "_2-通知顺序"
-        },
-        {
-          "level": 3,
-          "title": "3 切入点表达式",
-          "slug": "_3-切入点表达式"
-        },
-        {
-          "level": 3,
-          "title": "4 连接点",
-          "slug": "_4-连接点"
-        }
-      ],
-      "size": "17.61kb"
-    },
-    {
-      "title": "commit 提交规范",
-      "frontmatter": {
-        "title": "commit 提交规范",
-        "date": "2023-09-21T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "技巧"
-        ],
-        "tags": [
-          "Git"
-        ]
-      },
-      "regularPath": "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html",
-      "relativePath": "BlogItem/commit 提交规范.md",
-      "key": "v-523143e6",
-      "path": "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html",
-      "size": "0.35kb"
-    },
-    {
-      "title": "vue3 Ⅱ vue 组件基础（上）",
-      "frontmatter": {
-        "title": "vue3 Ⅱ vue 组件基础（上）",
-        "date": "2023-04-18T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "技术"
-        ],
-        "tags": [
-          "Javascript",
-          "Vue"
-        ]
-      },
-      "regularPath": "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html",
-      "relativePath": "BlogItem/vue3 Ⅱ vue 组件基础（上）.md",
-      "key": "v-b9fb28f6",
-      "path": "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "六、单页面应用程序",
-          "slug": "六、单页面应用程序"
-        },
-        {
-          "level": 3,
-          "title": "1.什么是单页面应用程序",
-          "slug": "_1-什么是单页面应用程序"
-        },
-        {
-          "level": 3,
-          "title": "2.单页面应用程序的特点",
-          "slug": "_2-单页面应用程序的特点"
-        },
-        {
-          "level": 3,
-          "title": "3.单页面应用程序的优缺点",
-          "slug": "_3-单页面应用程序的优缺点"
-        },
-        {
-          "level": 3,
-          "title": "4.如何快速创建Vue的SPA项目",
-          "slug": "_4-如何快速创建vue的spa项目"
-        },
-        {
-          "level": 2,
-          "title": "七、vite的基本使用",
-          "slug": "七、vite的基本使用"
-        },
-        {
-          "level": 3,
-          "title": "1.创建 vite 项目",
-          "slug": "_1-创建-vite-项目"
-        },
-        {
-          "level": 3,
-          "title": "2.梳理项目的结构",
-          "slug": "_2-梳理项目的结构"
-        },
-        {
-          "level": 3,
-          "title": "3. vite 项目的运行流程",
-          "slug": "_3-vite-项目的运行流程"
-        },
-        {
-          "level": 2,
-          "title": "八、组件化开发思想",
-          "slug": "八、组件化开发思想"
-        },
-        {
-          "level": 3,
-          "title": "1.什么是组件化开发思想",
-          "slug": "_1-什么是组件化开发思想"
-        },
-        {
-          "level": 3,
-          "title": "2.前端组件化开发的好处",
-          "slug": "_2-前端组件化开发的好处"
-        },
-        {
-          "level": 3,
-          "title": "3.vue中的组件化开发",
-          "slug": "_3-vue中的组件化开发"
-        },
-        {
-          "level": 2,
-          "title": "九、vue 组件的构成",
-          "slug": "九、vue-组件的构成"
-        },
-        {
-          "level": 3,
-          "title": "1.vue 组件组成结构",
-          "slug": "_1-vue-组件组成结构"
-        },
-        {
-          "level": 3,
-          "title": "2.组件的 template 节点",
-          "slug": "_2-组件的-template-节点"
-        },
-        {
-          "level": 3,
-          "title": "3.组件的 script 节点",
-          "slug": "_3-组件的-script-节点"
-        },
-        {
-          "level": 2,
-          "title": "十、组件的基本使用",
-          "slug": "十、组件的基本使用"
-        },
-        {
-          "level": 3,
-          "title": "1.组件的注册",
-          "slug": "_1-组件的注册"
-        },
-        {
-          "level": 3,
-          "title": "2.组件之间的样式冲突问题",
-          "slug": "_2-组件之间的样式冲突问题"
-        },
-        {
-          "level": 3,
-          "title": "3.组件的 props",
-          "slug": "_3-组件的-props"
-        },
-        {
-          "level": 3,
-          "title": "4. Class 和 Style 绑定",
-          "slug": "_4-class-和-style-绑定"
-        },
-        {
-          "level": 2,
-          "title": "十一、第二个案例——封装组件案例",
-          "slug": "十一、第二个案例-封装组件案例"
-        },
-        {
-          "level": 3,
-          "title": "1.案例描述",
-          "slug": "_1-案例描述"
-        },
-        {
-          "level": 3,
-          "title": "2.案例实现代码",
-          "slug": "_2-案例实现代码"
-        },
-        {
-          "level": 2,
-          "title": "十二、vue 组件基础（上）总结",
-          "slug": "十二、vue-组件基础-上-总结"
-        }
-      ],
-      "size": "13.80kb"
-    },
-    {
       "title": "TypeScript 进阶语法",
       "frontmatter": {
         "title": "TypeScript 进阶语法",
@@ -2070,6 +2010,25 @@ export const siteData = {
       "size": "13.67kb"
     },
     {
+      "title": "commit 提交规范",
+      "frontmatter": {
+        "title": "commit 提交规范",
+        "date": "2023-09-21T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "技巧"
+        ],
+        "tags": [
+          "Git"
+        ]
+      },
+      "regularPath": "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html",
+      "relativePath": "BlogItem/commit 提交规范.md",
+      "key": "v-523143e6",
+      "path": "/BlogItem/commit%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.html",
+      "size": "0.38kb"
+    },
+    {
       "title": "vue3 Ⅰ vue 基础入门",
       "frontmatter": {
         "title": "vue3 Ⅰ vue 基础入门",
@@ -2165,6 +2124,335 @@ export const siteData = {
         }
       ],
       "size": "28.65kb"
+    },
+    {
+      "title": "vue3 Ⅱ vue 组件基础（上）",
+      "frontmatter": {
+        "title": "vue3 Ⅱ vue 组件基础（上）",
+        "date": "2023-04-18T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "技术"
+        ],
+        "tags": [
+          "Javascript",
+          "Vue"
+        ]
+      },
+      "regularPath": "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html",
+      "relativePath": "BlogItem/vue3 Ⅱ vue 组件基础（上）.md",
+      "key": "v-b9fb28f6",
+      "path": "/BlogItem/vue3%20%E2%85%A1%20vue%20%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "六、单页面应用程序",
+          "slug": "六、单页面应用程序"
+        },
+        {
+          "level": 3,
+          "title": "1.什么是单页面应用程序",
+          "slug": "_1-什么是单页面应用程序"
+        },
+        {
+          "level": 3,
+          "title": "2.单页面应用程序的特点",
+          "slug": "_2-单页面应用程序的特点"
+        },
+        {
+          "level": 3,
+          "title": "3.单页面应用程序的优缺点",
+          "slug": "_3-单页面应用程序的优缺点"
+        },
+        {
+          "level": 3,
+          "title": "4.如何快速创建Vue的SPA项目",
+          "slug": "_4-如何快速创建vue的spa项目"
+        },
+        {
+          "level": 2,
+          "title": "七、vite的基本使用",
+          "slug": "七、vite的基本使用"
+        },
+        {
+          "level": 3,
+          "title": "1.创建 vite 项目",
+          "slug": "_1-创建-vite-项目"
+        },
+        {
+          "level": 3,
+          "title": "2.梳理项目的结构",
+          "slug": "_2-梳理项目的结构"
+        },
+        {
+          "level": 3,
+          "title": "3. vite 项目的运行流程",
+          "slug": "_3-vite-项目的运行流程"
+        },
+        {
+          "level": 2,
+          "title": "八、组件化开发思想",
+          "slug": "八、组件化开发思想"
+        },
+        {
+          "level": 3,
+          "title": "1.什么是组件化开发思想",
+          "slug": "_1-什么是组件化开发思想"
+        },
+        {
+          "level": 3,
+          "title": "2.前端组件化开发的好处",
+          "slug": "_2-前端组件化开发的好处"
+        },
+        {
+          "level": 3,
+          "title": "3.vue中的组件化开发",
+          "slug": "_3-vue中的组件化开发"
+        },
+        {
+          "level": 2,
+          "title": "九、vue 组件的构成",
+          "slug": "九、vue-组件的构成"
+        },
+        {
+          "level": 3,
+          "title": "1.vue 组件组成结构",
+          "slug": "_1-vue-组件组成结构"
+        },
+        {
+          "level": 3,
+          "title": "2.组件的 template 节点",
+          "slug": "_2-组件的-template-节点"
+        },
+        {
+          "level": 3,
+          "title": "3.组件的 script 节点",
+          "slug": "_3-组件的-script-节点"
+        },
+        {
+          "level": 2,
+          "title": "十、组件的基本使用",
+          "slug": "十、组件的基本使用"
+        },
+        {
+          "level": 3,
+          "title": "1.组件的注册",
+          "slug": "_1-组件的注册"
+        },
+        {
+          "level": 3,
+          "title": "2.组件之间的样式冲突问题",
+          "slug": "_2-组件之间的样式冲突问题"
+        },
+        {
+          "level": 3,
+          "title": "3.组件的 props",
+          "slug": "_3-组件的-props"
+        },
+        {
+          "level": 3,
+          "title": "4. Class 和 Style 绑定",
+          "slug": "_4-class-和-style-绑定"
+        },
+        {
+          "level": 2,
+          "title": "十一、第二个案例——封装组件案例",
+          "slug": "十一、第二个案例-封装组件案例"
+        },
+        {
+          "level": 3,
+          "title": "1.案例描述",
+          "slug": "_1-案例描述"
+        },
+        {
+          "level": 3,
+          "title": "2.案例实现代码",
+          "slug": "_2-案例实现代码"
+        },
+        {
+          "level": 2,
+          "title": "十二、vue 组件基础（上）总结",
+          "slug": "十二、vue-组件基础-上-总结"
+        }
+      ],
+      "size": "13.80kb"
+    },
+    {
+      "title": "vue3 Ⅳ vue 组件高级（上）",
+      "frontmatter": {
+        "title": "vue3 Ⅳ vue 组件高级（上）",
+        "date": "2023-04-22T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "技术"
+        ],
+        "tags": [
+          "Javascript",
+          "Vue"
+        ]
+      },
+      "regularPath": "/BlogItem/vue3%20%E2%85%A3%20vue%20%E7%BB%84%E4%BB%B6%E9%AB%98%E7%BA%A7%EF%BC%88%E4%B8%8A%EF%BC%89.html",
+      "relativePath": "BlogItem/vue3 Ⅳ vue 组件高级（上）.md",
+      "key": "v-656f9ebb",
+      "path": "/BlogItem/vue3%20%E2%85%A3%20vue%20%E7%BB%84%E4%BB%B6%E9%AB%98%E7%BA%A7%EF%BC%88%E4%B8%8A%EF%BC%89.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "十九、watch 侦听器",
+          "slug": "十九、watch-侦听器"
+        },
+        {
+          "level": 3,
+          "title": "1.什么是 watch 侦听器",
+          "slug": "_1-什么是-watch-侦听器"
+        },
+        {
+          "level": 3,
+          "title": "2.watch 侦听器的基本语法",
+          "slug": "_2-watch-侦听器的基本语法"
+        },
+        {
+          "level": 3,
+          "title": "3.使用 watch 检测用户名是否可用",
+          "slug": "_3-使用-watch-检测用户名是否可用"
+        },
+        {
+          "level": 3,
+          "title": "4.immediate 选项",
+          "slug": "_4-immediate-选项"
+        },
+        {
+          "level": 3,
+          "title": "5.deep 选项",
+          "slug": "_5-deep-选项"
+        },
+        {
+          "level": 3,
+          "title": "6.监听对象单个属性的变化",
+          "slug": "_6-监听对象单个属性的变化"
+        },
+        {
+          "level": 3,
+          "title": "7.计算属性 vs 侦听器",
+          "slug": "_7-计算属性-vs-侦听器"
+        },
+        {
+          "level": 2,
+          "title": "二十、组件的生命周期",
+          "slug": "二十、组件的生命周期"
+        },
+        {
+          "level": 3,
+          "title": "1.组件的运行过程",
+          "slug": "_1-组件的运行过程"
+        },
+        {
+          "level": 3,
+          "title": "2.如何监听组件的不同时刻",
+          "slug": "_2-如何监听组件的不同时刻"
+        },
+        {
+          "level": 3,
+          "title": "3.如何监听组件的更新",
+          "slug": "_3-如何监听组件的更新"
+        },
+        {
+          "level": 3,
+          "title": "4.组件中主要的生命周期函数",
+          "slug": "_4-组件中主要的生命周期函数"
+        },
+        {
+          "level": 3,
+          "title": "5.组件中全部的生命周期函数",
+          "slug": "_5-组件中全部的生命周期函数"
+        },
+        {
+          "level": 3,
+          "title": "6.完整的生命周期图示",
+          "slug": "_6-完整的生命周期图示"
+        },
+        {
+          "level": 2,
+          "title": "二十一、组件之间的数据共享",
+          "slug": "二十一、组件之间的数据共享"
+        },
+        {
+          "level": 3,
+          "title": "1.组件之间的关系",
+          "slug": "_1-组件之间的关系"
+        },
+        {
+          "level": 3,
+          "title": "2.父子组件之间的数据共享",
+          "slug": "_2-父子组件之间的数据共享"
+        },
+        {
+          "level": 3,
+          "title": "3.兄弟组件之间的数据共享",
+          "slug": "_3-兄弟组件之间的数据共享"
+        },
+        {
+          "level": 3,
+          "title": "4.后代关系组件之间的数据共享",
+          "slug": "_4-后代关系组件之间的数据共享"
+        },
+        {
+          "level": 3,
+          "title": "5.vuex",
+          "slug": "_5-vuex"
+        },
+        {
+          "level": 3,
+          "title": "6.总结",
+          "slug": "_6-总结"
+        },
+        {
+          "level": 2,
+          "title": "二十二、vue 3.x 中全局配置 axios",
+          "slug": "二十二、vue-3-x-中全局配置-axios"
+        },
+        {
+          "level": 3,
+          "title": "1.为什么要全局配置 axios",
+          "slug": "_1-为什么要全局配置-axios"
+        },
+        {
+          "level": 3,
+          "title": "2.如何全局配置 axios",
+          "slug": "_2-如何全局配置-axios"
+        },
+        {
+          "level": 3,
+          "title": "3.使用 axios",
+          "slug": "_3-使用-axios"
+        },
+        {
+          "level": 2,
+          "title": "二十三、第四个案例——购物车案例",
+          "slug": "二十三、第四个案例-购物车案例"
+        },
+        {
+          "level": 3,
+          "title": "1.案例效果",
+          "slug": "_1-案例效果"
+        },
+        {
+          "level": 3,
+          "title": "2.实现步骤",
+          "slug": "_2-实现步骤"
+        },
+        {
+          "level": 3,
+          "title": "3.具体实现",
+          "slug": "_3-具体实现"
+        },
+        {
+          "level": 2,
+          "title": "二十四、vue组件高级（上）总结",
+          "slug": "二十四、vue组件高级-上-总结"
+        }
+      ],
+      "size": "34.82kb"
     },
     {
       "title": "vue3 Ⅲ vue 组件基础（下）",
@@ -2466,183 +2754,6 @@ export const siteData = {
       "size": "24.11kb"
     },
     {
-      "title": "vue3 Ⅳ vue 组件高级（上）",
-      "frontmatter": {
-        "title": "vue3 Ⅳ vue 组件高级（上）",
-        "date": "2023-04-22T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "技术"
-        ],
-        "tags": [
-          "Javascript",
-          "Vue"
-        ]
-      },
-      "regularPath": "/BlogItem/vue3%20%E2%85%A3%20vue%20%E7%BB%84%E4%BB%B6%E9%AB%98%E7%BA%A7%EF%BC%88%E4%B8%8A%EF%BC%89.html",
-      "relativePath": "BlogItem/vue3 Ⅳ vue 组件高级（上）.md",
-      "key": "v-656f9ebb",
-      "path": "/BlogItem/vue3%20%E2%85%A3%20vue%20%E7%BB%84%E4%BB%B6%E9%AB%98%E7%BA%A7%EF%BC%88%E4%B8%8A%EF%BC%89.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "十九、watch 侦听器",
-          "slug": "十九、watch-侦听器"
-        },
-        {
-          "level": 3,
-          "title": "1.什么是 watch 侦听器",
-          "slug": "_1-什么是-watch-侦听器"
-        },
-        {
-          "level": 3,
-          "title": "2.watch 侦听器的基本语法",
-          "slug": "_2-watch-侦听器的基本语法"
-        },
-        {
-          "level": 3,
-          "title": "3.使用 watch 检测用户名是否可用",
-          "slug": "_3-使用-watch-检测用户名是否可用"
-        },
-        {
-          "level": 3,
-          "title": "4.immediate 选项",
-          "slug": "_4-immediate-选项"
-        },
-        {
-          "level": 3,
-          "title": "5.deep 选项",
-          "slug": "_5-deep-选项"
-        },
-        {
-          "level": 3,
-          "title": "6.监听对象单个属性的变化",
-          "slug": "_6-监听对象单个属性的变化"
-        },
-        {
-          "level": 3,
-          "title": "7.计算属性 vs 侦听器",
-          "slug": "_7-计算属性-vs-侦听器"
-        },
-        {
-          "level": 2,
-          "title": "二十、组件的生命周期",
-          "slug": "二十、组件的生命周期"
-        },
-        {
-          "level": 3,
-          "title": "1.组件的运行过程",
-          "slug": "_1-组件的运行过程"
-        },
-        {
-          "level": 3,
-          "title": "2.如何监听组件的不同时刻",
-          "slug": "_2-如何监听组件的不同时刻"
-        },
-        {
-          "level": 3,
-          "title": "3.如何监听组件的更新",
-          "slug": "_3-如何监听组件的更新"
-        },
-        {
-          "level": 3,
-          "title": "4.组件中主要的生命周期函数",
-          "slug": "_4-组件中主要的生命周期函数"
-        },
-        {
-          "level": 3,
-          "title": "5.组件中全部的生命周期函数",
-          "slug": "_5-组件中全部的生命周期函数"
-        },
-        {
-          "level": 3,
-          "title": "6.完整的生命周期图示",
-          "slug": "_6-完整的生命周期图示"
-        },
-        {
-          "level": 2,
-          "title": "二十一、组件之间的数据共享",
-          "slug": "二十一、组件之间的数据共享"
-        },
-        {
-          "level": 3,
-          "title": "1.组件之间的关系",
-          "slug": "_1-组件之间的关系"
-        },
-        {
-          "level": 3,
-          "title": "2.父子组件之间的数据共享",
-          "slug": "_2-父子组件之间的数据共享"
-        },
-        {
-          "level": 3,
-          "title": "3.兄弟组件之间的数据共享",
-          "slug": "_3-兄弟组件之间的数据共享"
-        },
-        {
-          "level": 3,
-          "title": "4.后代关系组件之间的数据共享",
-          "slug": "_4-后代关系组件之间的数据共享"
-        },
-        {
-          "level": 3,
-          "title": "5.vuex",
-          "slug": "_5-vuex"
-        },
-        {
-          "level": 3,
-          "title": "6.总结",
-          "slug": "_6-总结"
-        },
-        {
-          "level": 2,
-          "title": "二十二、vue 3.x 中全局配置 axios",
-          "slug": "二十二、vue-3-x-中全局配置-axios"
-        },
-        {
-          "level": 3,
-          "title": "1.为什么要全局配置 axios",
-          "slug": "_1-为什么要全局配置-axios"
-        },
-        {
-          "level": 3,
-          "title": "2.如何全局配置 axios",
-          "slug": "_2-如何全局配置-axios"
-        },
-        {
-          "level": 3,
-          "title": "3.使用 axios",
-          "slug": "_3-使用-axios"
-        },
-        {
-          "level": 2,
-          "title": "二十三、第四个案例——购物车案例",
-          "slug": "二十三、第四个案例-购物车案例"
-        },
-        {
-          "level": 3,
-          "title": "1.案例效果",
-          "slug": "_1-案例效果"
-        },
-        {
-          "level": 3,
-          "title": "2.实现步骤",
-          "slug": "_2-实现步骤"
-        },
-        {
-          "level": 3,
-          "title": "3.具体实现",
-          "slug": "_3-具体实现"
-        },
-        {
-          "level": 2,
-          "title": "二十四、vue组件高级（上）总结",
-          "slug": "二十四、vue组件高级-上-总结"
-        }
-      ],
-      "size": "34.82kb"
-    },
-    {
       "title": "vue3 Ⅵ vue 路由",
       "frontmatter": {
         "title": "vue3 Ⅵ vue 路由",
@@ -2783,73 +2894,6 @@ export const siteData = {
         }
       ],
       "size": "21.23kb"
-    },
-    {
-      "title": "vue3 Ⅷ vue 常见优化手段",
-      "frontmatter": {
-        "title": "vue3 Ⅷ vue 常见优化手段",
-        "date": "2023-04-30T00:00:00.000Z",
-        "author": "liuwy",
-        "categories": [
-          "技术"
-        ],
-        "tags": [
-          "Javascript",
-          "Vue"
-        ]
-      },
-      "regularPath": "/BlogItem/vue3%20%E2%85%A7%20vue%20%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96%E6%89%8B%E6%AE%B5.html",
-      "relativePath": "BlogItem/vue3 Ⅷ vue 常见优化手段.md",
-      "key": "v-cc371236",
-      "path": "/BlogItem/vue3%20%E2%85%A7%20vue%20%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96%E6%89%8B%E6%AE%B5.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "0.永远不要过早优化",
-          "slug": "_0-永远不要过早优化"
-        },
-        {
-          "level": 3,
-          "title": "1.使用 key",
-          "slug": "_1-使用-key"
-        },
-        {
-          "level": 3,
-          "title": "2.使用冻结的对象",
-          "slug": "_2-使用冻结的对象"
-        },
-        {
-          "level": 3,
-          "title": "3.使用函数式组件",
-          "slug": "_3-使用函数式组件"
-        },
-        {
-          "level": 3,
-          "title": "4.使用计算属性",
-          "slug": "_4-使用计算属性"
-        },
-        {
-          "level": 3,
-          "title": "5.非实时绑定的表单项",
-          "slug": "_5-非实时绑定的表单项"
-        },
-        {
-          "level": 3,
-          "title": "6.保持对象引用稳定",
-          "slug": "_6-保持对象引用稳定"
-        },
-        {
-          "level": 3,
-          "title": "7.使用 v-show 替代 v-if",
-          "slug": "_7-使用-v-show-替代-v-if"
-        },
-        {
-          "level": 3,
-          "title": "8.使用延迟装载（defer）",
-          "slug": "_8-使用延迟装载-defer"
-        }
-      ],
-      "size": "2.97kb"
     },
     {
       "title": "vue3 Ⅶ vue 补充内容",
@@ -3012,6 +3056,73 @@ export const siteData = {
         }
       ],
       "size": "15.62kb"
+    },
+    {
+      "title": "vue3 Ⅷ vue 常见优化手段",
+      "frontmatter": {
+        "title": "vue3 Ⅷ vue 常见优化手段",
+        "date": "2023-04-30T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "技术"
+        ],
+        "tags": [
+          "Javascript",
+          "Vue"
+        ]
+      },
+      "regularPath": "/BlogItem/vue3%20%E2%85%A7%20vue%20%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96%E6%89%8B%E6%AE%B5.html",
+      "relativePath": "BlogItem/vue3 Ⅷ vue 常见优化手段.md",
+      "key": "v-cc371236",
+      "path": "/BlogItem/vue3%20%E2%85%A7%20vue%20%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96%E6%89%8B%E6%AE%B5.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "0.永远不要过早优化",
+          "slug": "_0-永远不要过早优化"
+        },
+        {
+          "level": 3,
+          "title": "1.使用 key",
+          "slug": "_1-使用-key"
+        },
+        {
+          "level": 3,
+          "title": "2.使用冻结的对象",
+          "slug": "_2-使用冻结的对象"
+        },
+        {
+          "level": 3,
+          "title": "3.使用函数式组件",
+          "slug": "_3-使用函数式组件"
+        },
+        {
+          "level": 3,
+          "title": "4.使用计算属性",
+          "slug": "_4-使用计算属性"
+        },
+        {
+          "level": 3,
+          "title": "5.非实时绑定的表单项",
+          "slug": "_5-非实时绑定的表单项"
+        },
+        {
+          "level": 3,
+          "title": "6.保持对象引用稳定",
+          "slug": "_6-保持对象引用稳定"
+        },
+        {
+          "level": 3,
+          "title": "7.使用 v-show 替代 v-if",
+          "slug": "_7-使用-v-show-替代-v-if"
+        },
+        {
+          "level": 3,
+          "title": "8.使用延迟装载（defer）",
+          "slug": "_8-使用延迟装载-defer"
+        }
+      ],
+      "size": "2.97kb"
     },
     {
       "title": "vue3与组合式API",
@@ -3287,6 +3398,57 @@ export const siteData = {
       "size": "1.79kb"
     },
     {
+      "title": "框架和库的区别",
+      "frontmatter": {
+        "title": "框架和库的区别",
+        "date": "2023-10-18T00:00:00.000Z",
+        "author": "liuwy",
+        "categories": [
+          "内功"
+        ],
+        "tags": [
+          "原理剖析"
+        ]
+      },
+      "regularPath": "/BlogItem/%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BA%93%E7%9A%84%E5%8C%BA%E5%88%AB.html",
+      "relativePath": "BlogItem/框架和库的区别.md",
+      "key": "v-51ffb016",
+      "path": "/BlogItem/%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BA%93%E7%9A%84%E5%8C%BA%E5%88%AB.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一、什么是框架与库",
+          "slug": "一、什么是框架与库"
+        },
+        {
+          "level": 2,
+          "title": "二、刨析框架与库的区别",
+          "slug": "二、刨析框架与库的区别"
+        },
+        {
+          "level": 3,
+          "title": "1.库",
+          "slug": "_1-库"
+        },
+        {
+          "level": 3,
+          "title": "2.框架",
+          "slug": "_2-框架"
+        },
+        {
+          "level": 3,
+          "title": "3.Inversion Of Control（控制反转）",
+          "slug": "_3-inversion-of-control-控制反转"
+        },
+        {
+          "level": 2,
+          "title": "三、思维的扩展",
+          "slug": "三、思维的扩展"
+        }
+      ],
+      "size": "1.86kb"
+    },
+    {
       "title": "路径别名 ElementPlus Sass配置",
       "frontmatter": {
         "title": "路径别名 ElementPlus Sass配置",
@@ -3458,6 +3620,15 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
+        "title": "Sass Tags"
+      },
+      "regularPath": "/tag/Sass/",
+      "key": "v-170a9792",
+      "path": "/tag/Sass/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
         "title": "Javascript Tags"
       },
       "regularPath": "/tag/Javascript/",
@@ -3467,20 +3638,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "IDEA Tags"
-      },
-      "regularPath": "/tag/IDEA/",
-      "key": "v-184030a4",
-      "path": "/tag/IDEA/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "Git Tags"
       },
       "regularPath": "/tag/Git/",
       "key": "v-32555732",
       "path": "/tag/Git/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "IDEA Tags"
+      },
+      "regularPath": "/tag/IDEA/",
+      "key": "v-184030a4",
+      "path": "/tag/IDEA/"
     },
     {
       "frontmatter": {
@@ -3503,15 +3674,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "TypeScript Tags"
-      },
-      "regularPath": "/tag/TypeScript/",
-      "key": "v-bee809c0",
-      "path": "/tag/TypeScript/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "SpringBoot Tags"
       },
       "regularPath": "/tag/SpringBoot/",
@@ -3526,6 +3688,15 @@ export const siteData = {
       "regularPath": "/tag/AOP/",
       "key": "v-325b9792",
       "path": "/tag/AOP/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "TypeScript Tags"
+      },
+      "regularPath": "/tag/TypeScript/",
+      "key": "v-bee809c0",
+      "path": "/tag/TypeScript/"
     },
     {
       "frontmatter": {
@@ -3553,6 +3724,15 @@ export const siteData = {
       "regularPath": "/tag/%E4%B8%80%E5%88%87%E9%83%BD%E5%88%9A%E5%88%9A%E5%A5%BD/",
       "key": "v-d740cc78",
       "path": "/tag/一切都刚刚好/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "原理剖析 Tags"
+      },
+      "regularPath": "/tag/%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/",
+      "key": "v-983f19a8",
+      "path": "/tag/原理剖析/"
     },
     {
       "frontmatter": {
@@ -3589,6 +3769,15 @@ export const siteData = {
       "regularPath": "/categories/%E6%83%85%E6%84%9F/",
       "key": "v-2e6b8ebc",
       "path": "/categories/情感/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "内功 Categories"
+      },
+      "regularPath": "/categories/%E5%86%85%E5%8A%9F/",
+      "key": "v-52e087a8",
+      "path": "/categories/内功/"
     },
     {
       "frontmatter": {

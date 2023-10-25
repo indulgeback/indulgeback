@@ -21,31 +21,31 @@ export default {
         "v-3e68fda2"
       ]
     },
+    "Sass": {
+      "key": "Sass",
+      "scope": "tags",
+      "path": "/tag/Sass/",
+      "pageKeys": [
+        "v-f8682c8a"
+      ]
+    },
     "Javascript": {
       "key": "Javascript",
       "scope": "tags",
       "path": "/tag/Javascript/",
       "pageKeys": [
         "v-03ea0756",
-        "v-28acc7f4",
         "v-1c946e75",
+        "v-28acc7f4",
         "v-c07dbf08",
-        "v-b9fb28f6",
         "v-a6a3607c",
+        "v-b9fb28f6",
+        "v-656f9ebb",
         "v-964a33f6",
         "v-7748193b",
-        "v-656f9ebb",
         "v-9d78ab64",
-        "v-cc371236",
-        "v-4f28a414"
-      ]
-    },
-    "IDEA": {
-      "key": "IDEA",
-      "scope": "tags",
-      "path": "/tag/IDEA/",
-      "pageKeys": [
-        "v-dee8eb26"
+        "v-4f28a414",
+        "v-cc371236"
       ]
     },
     "Git": {
@@ -55,6 +55,14 @@ export default {
       "pageKeys": [
         "v-af2edb96",
         "v-523143e6"
+      ]
+    },
+    "IDEA": {
+      "key": "IDEA",
+      "scope": "tags",
+      "path": "/tag/IDEA/",
+      "pageKeys": [
+        "v-dee8eb26"
       ]
     },
     "Lambda": {
@@ -73,15 +81,6 @@ export default {
         "v-76aa7db6"
       ]
     },
-    "TypeScript": {
-      "key": "TypeScript",
-      "scope": "tags",
-      "path": "/tag/TypeScript/",
-      "pageKeys": [
-        "v-2707771a",
-        "v-ba2d4322"
-      ]
-    },
     "SpringBoot": {
       "key": "SpringBoot",
       "scope": "tags",
@@ -98,19 +97,28 @@ export default {
         "v-a2730a74"
       ]
     },
+    "TypeScript": {
+      "key": "TypeScript",
+      "scope": "tags",
+      "path": "/tag/TypeScript/",
+      "pageKeys": [
+        "v-2707771a",
+        "v-ba2d4322"
+      ]
+    },
     "Vue": {
       "key": "Vue",
       "scope": "tags",
       "path": "/tag/Vue/",
       "pageKeys": [
-        "v-b9fb28f6",
         "v-a6a3607c",
+        "v-b9fb28f6",
+        "v-656f9ebb",
         "v-964a33f6",
         "v-7748193b",
-        "v-656f9ebb",
         "v-9d78ab64",
-        "v-cc371236",
         "v-4f28a414",
+        "v-cc371236",
         "v-25305652",
         "v-7c16f5de"
       ]
@@ -130,6 +138,14 @@ export default {
       "pageKeys": [
         "v-cbb13aa4"
       ]
+    },
+    "原理剖析": {
+      "key": "原理剖析",
+      "scope": "tags",
+      "path": "/tag/原理剖析/",
+      "pageKeys": [
+        "v-51ffb016"
+      ]
     }
   },
   "categories": {
@@ -139,22 +155,23 @@ export default {
       "path": "/categories/技术/",
       "pageKeys": [
         "v-3e68fda2",
+        "v-f8682c8a",
         "v-03ea0756",
-        "v-28acc7f4",
         "v-af2edb96",
+        "v-28acc7f4",
         "v-c07dbf08",
         "v-76aa7db6",
-        "v-2707771a",
         "v-a2730a74",
-        "v-b9fb28f6",
+        "v-2707771a",
         "v-ba2d4322",
         "v-a6a3607c",
+        "v-b9fb28f6",
+        "v-656f9ebb",
         "v-964a33f6",
         "v-7748193b",
-        "v-656f9ebb",
         "v-9d78ab64",
-        "v-cc371236",
         "v-4f28a414",
+        "v-cc371236",
         "v-25305652",
         "v-7c16f5de"
       ]
@@ -173,8 +190,8 @@ export default {
       "scope": "categories",
       "path": "/categories/专题/",
       "pageKeys": [
-        "v-1de00e7b",
         "v-1c946e75",
+        "v-1de00e7b",
         "v-28fd3a72"
       ]
     },
@@ -184,6 +201,14 @@ export default {
       "path": "/categories/情感/",
       "pageKeys": [
         "v-cbb13aa4"
+      ]
+    },
+    "内功": {
+      "key": "内功",
+      "scope": "categories",
+      "path": "/categories/内功/",
+      "pageKeys": [
+        "v-51ffb016"
       ]
     }
   },
