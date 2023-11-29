@@ -159,28 +159,22 @@ module.exports = {
 			{
 				audios: [
 					{
+						name: '友情岁月',
+						artist: '郑凯、曾梦雪',
+						url: '/bgm/友情岁月 - 郑恺、曾梦雪.mp3',
+						cover: '/bgm/友情岁月.png'
+					},
+					{
+						name: '何必',
+						artist: '于文文',
+						url: '/bgm/何必 - 于文文.mp3',
+						cover: '/bgm/何必.png'
+					},
+					{
 						name: '暗号',
 						artist: '周杰伦',
 						url: '/bgm/暗号 - 周杰伦.mp3',
 						cover: '/bgm/暗号.png'
-					},
-					{
-						name: '单车',
-						artist: '陈奕迅',
-						url: '/bgm/单车 - 陈奕迅.mp3',
-						cover: '/bgm/单车.png'
-					},
-					{
-						name: 'lemon',
-						artist: '米津玄師',
-						url: '/bgm/Lemon - 米津玄師.mp3',
-						cover: '/bgm/lemon.png'
-					},
-					{
-						name: 'LoveYourself',
-						artist: 'JustinBieber',
-						url: '/bgm/LoveYourself - JustinBieber.mp3',
-						cover: '/bgm/LoveYourself.png'
 					},
 					{
 						name: '半岛铁盒',
@@ -189,29 +183,12 @@ module.exports = {
 						cover: '/bgm/半岛铁盒.png'
 					},
 					{
-						name: '富士山下',
+						name: '单车',
 						artist: '陈奕迅',
-						url: '/bgm/富士山下 - 陈奕迅.mp3',
-						cover: '/bgm/富士山下.png'
+						url: '/bgm/单车 - 陈奕迅.mp3',
+						cover: '/bgm/单车.png'
 					},
-					{
-						name: '珊瑚海',
-						artist: '周杰伦、Lara梁心颐',
-						url: '/bgm/珊瑚海 - 周杰伦、Lara梁心颐.mp3',
-						cover: '/bgm/珊瑚海.png'
-					},
-					{
-						name: 'LOSER',
-						artist: '米津玄師',
-						url: '/bgm/LOSER - 米津玄師.mp3',
-						cover: '/bgm/LOSER.png'
-					},
-					{
-						name: '红玫瑰',
-						artist: '陈奕迅',
-						url: '/bgm/红玫瑰 - 陈奕迅.mp3',
-						cover: '/bgm/红玫瑰.png'
-					}
+
 				],
 				// 是否默认缩小
 				autoShrink: false,
