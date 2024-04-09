@@ -1,5 +1,5 @@
 ---
-title: Zuend使用
+title: Zustand使用
 date: 2024-02-17
 author: liuwy
 categories:
