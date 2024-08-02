@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs --temp .temp",
-    "docs:build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
+    "docs:build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",
+    "docs:deploy": "powershell ./ci/deploy.ps1"
   },
   "keywords": [],
   "author": "",
