@@ -22,4 +22,4 @@ git add .
 git commit -m "deploy: $hash_value"
 
 # 推送到远程仓库
-git push https://github.com/indulgeback/indulgeback.git master:dev
+git push -f https://github.com/indulgeback/indulgeback.git master:dev
