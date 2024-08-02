@@ -1,0 +1,53 @@
+name: Pack and Move to Another Branch
+
+on:
+  push:
+    branches:
+      - dev # 触发分支
+
+jobs:
+  pack_and_move:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # 获取所有历史提交，确保标签和注释正确
+
+    - name: Install dependencies
+      run: |
+        # 在这里安装你的项目依赖
+        npm install
+
+    - name: Build project
+      run: |
+        # 运行你的构建脚本
+        npm run docs:build
+
+    - name: Checkout target branch
+      uses: actions/checkout@v3
+      with:
+        ref: production # 目标分支名
+        path: production # 保存在工作空间的另一个位置
+
+    - name: Move built files to target branch
+      run: |
+        # 将构建的文件移动到 production 分支的根目录
+        mv /docs/.vuepress/dist/* ../production/
+        rm -rf /docs/.vuepress/dist # 清理构建目录
+
+    - name: Add and commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: GitHub Actions
+        author_email: actions@github.com
+        message: 'Automatically moved built files'
+        add: 'production/*' # 添加 production 目录下的所有文件
+        branch: production # 提交到 production 分支
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: production # 推送更改到 production 分支
+        github_token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub 自动提供的令牌
