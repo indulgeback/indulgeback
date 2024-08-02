@@ -34,8 +34,8 @@ jobs:
     - name: Move built files to target branch
       run: |
         # 将构建的文件移动到 production 分支的根目录
-        mv dist/* ../production/
-        rm -rf dist # 清理构建目录
+        mv /docs/.vuepress/dist/* ../production/
+        rm -rf /docs/.vuepress/dist # 清理构建目录
 
     - name: Add and commit changes
       uses: EndBug/add-and-commit@v9
