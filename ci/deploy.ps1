@@ -16,13 +16,18 @@ Write-Host "Generated hash version: $hash_value"
 Write-Host "Hash version saved to hash_version.txt"
 
 # 进入 dist 文件夹
-Push-Location .\dist
+Push-Location .\docs\.vuepress\dist
 
 # 将所有文件添加到暂存区
 git add .
+
+# 返回原始目录
+Pop-Location
+
+git add ./hash_version.txt
 
 # 提交信息附加 hash 版本号
 git commit -m "deploy: $hash_value"
 
 # 推送到远程仓库
-git push -f https://github.com/indulgeback/indulgeback.git dev:blog-pages
+git push https://github.com/indulgeback/indulgeback.git dev:blog-pages
