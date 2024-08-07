@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs --temp .temp",
     "docs:build": "vuepress build docs",
-    "docs:deploy": "powershell ./ci/deploy.ps1"
+    "docs:deploy": "npm run docs:build && powershell ./ci/deploy.ps1"
   },
   "keywords": [],
   "author": "",
